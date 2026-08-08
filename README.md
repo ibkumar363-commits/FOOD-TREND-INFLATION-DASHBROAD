@@ -133,7 +133,7 @@ Sweet potatoes	259%
 Mudfish, dried	247%
 Tomatoes, fresh	209%
 
-Northeastern states (Yobe, Borno, Adamawa, Taraba, Gombe, Bauchi) appear as the lowest-price state 91 times across the dataset, versus only 34 times as the highest-price state. This is consistent with these being production zones where the crop is grown, but transport and insecurity constraints limit onward distribution — the price gap reflects logistics friction more than production cost.
+Northeastern states (Yobe, Borno, Adamawa, Taraba, Gombe, Bauchi) appear as the lowest-price state 91 times across the dataset, versus only 34 times as the highest-price state. This is consistent with these being production zones where the crop is grown, but transport and insecurity constraints limit onward distribution the price gap reflects logistics friction more than production cost.
 5. Recommendations
 On the April price dip
 Treat the April easing with caution in any report. One month is not a trend reversal, and it follows five consecutive months of increases. It should be described as “stabilizing” rather than “improving” until May/June data confirms the direction.
